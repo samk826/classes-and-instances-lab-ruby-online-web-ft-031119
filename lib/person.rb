@@ -1,3 +1,3 @@
 class Person
 end
-adele goldberg= person.new
+adele_goldberg= person.new
